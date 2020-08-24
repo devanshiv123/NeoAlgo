@@ -10,7 +10,9 @@
 # Codes in the C++ language
 
 ## Data Structures
+
 Stack_using_LinkedList.cpp
+
 - [Binary Search Tree](ds/BinarySearchTree.cpp)
 - [Binary Tree](ds/BinaryTree.cpp)
 - [Singly Linked List](ds/singly_linked_list.cpp)
@@ -57,6 +59,7 @@ Stack_using_LinkedList.cpp
 - [Post-order (LRN) Tree Traversal](graphs/Postorder_Traversal.cpp)
 - [Pre-order (NLR) Tree Traversal](/graphs/Preorder_Traversal.cpp)
 - [Prim's Algorithm](graphs/Prim_Algorithm.cpp)
+- [Kosaraju's Algorithm](graphs/KosarajuAlgo.cpp)
 
 ## Machine Learning
 
@@ -69,6 +72,7 @@ _add list here_
 - [Binary Exponentiation](math/Binary_Exponentiation.cpp)
 - [Ackermann_Function](math/Ackermann_function.cpp)
 - [Euler's_Totient_Function](math/Euler's_Totient_function.cpp)
+
 ## Dynamic Programming
 
 - [Longest increasing subsequence](dp/longest_increasing_subsequence.cpp)
